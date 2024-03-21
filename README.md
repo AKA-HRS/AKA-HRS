@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Raj Sinha
-- 👀 Interested in web Development, App Development, coding(java,html5,css3,js)
+- 👀 Interested in web Development, App Development, coding(java,html5,css3,js,MERN Stack)
 - 👀 Worked on faramework like Tailwind,Angular,React
 - 👀 also worked with databses like MongoDB,MySQL,Firebase
 - 🌱 currently studing in Dronacharya Group of Institution
