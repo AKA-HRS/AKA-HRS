@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj Sinha</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" alt="my passion" width="400" src="https://cdn.dribbble.com/users/380990/screenshots/4282707/comp_animation_3.gif" > 
+<img align="center" alt="my passion" width="400" src="https://cdn.dribbble.com/users/380990/screenshots/4282707/comp_animation_3.gif" > 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aka-hrs&label=Profile%20views&color=0e75b6&style=flat" alt="aka-hrs" /> </p>
 
